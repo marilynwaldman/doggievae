@@ -1,4 +1,4 @@
-Beginnings of a VAE
+Barebones  VAE
 
 ###  Purpose and Scope
 
